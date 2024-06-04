@@ -1,2 +1,2 @@
-# Hello-world
-correction made
+
+Making a dashboard that displayed agent and consumer behavior was my responsibility. Through the utilization of Power BI's interactive capabilities and dynamic graphics, I successfully converted unstructured data into insightful understandings. I presented call numbers, response times, and customer satisfaction levels over time using a variety of graphs and figures. Additionally, this identified areas where agent performance might be improved, which would ultimately improve customer satisfaction.
